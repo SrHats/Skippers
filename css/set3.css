@@ -1,0 +1,34 @@
+/* Libreria CSS creada por Pablo Hats */
+
+
+img.imagendefondo {
+  display: block;
+  position: relative;		
+
+}
+
+p.textodelante {
+  background-color: rgba(255,255,255,.8); */
+  display: block;
+  /* margin: 80px 320px 20px 320px; */
+  position: absolute;
+  /* padding: 20px; */
+  /* left: 5px; */
+  width: 20%;
+}
+
+/* div, img { */
+  /* display: block; */
+  /* position: relative;		 */
+  /* width: 300px; */
+/* } */
+
+/* div p { */
+  /* background-color: rgba(255,255,255,.8); */
+  /* display: block; */
+  /* position: absolute; */
+  /* bottom: -16px; */
+  /* left: 0; */
+  /* padding: 5px; */
+  /* width: 100%; */
+/* } */
